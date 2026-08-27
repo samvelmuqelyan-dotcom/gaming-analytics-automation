@@ -1,0 +1,18 @@
+# Environment variables (contains secrets)
+.env
+
+# Python virtual environment
+.venv/
+
+# PyCharm settings
+.idea/
+
+# Simulation lock file
+simulation.lock
+
+# Python cache
+__pycache__/
+*.pyc
+
+# CSV data files (generated locally, not tracked)
+*.csv
